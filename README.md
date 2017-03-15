@@ -1,4 +1,7 @@
 # angularLoginSignup
+
+THIS USE PHP SESSIONS
+
 A simple lgoin/signup show using angularjs, angular material css , php and mysql
 
 Please find live demo of this app at : [https://angular-login.herokuapp.com/#/login](https://angular-login.herokuapp.com/#/login)
